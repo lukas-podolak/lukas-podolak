@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lukas-podolak
 - 👀 I’m interested in everything
-- 🌱 I’m currently learning SPFx
+- 🌱 I’m currently learning ...
 - 📫 How to reach me lukas.podolak.tech
 
 <!---
